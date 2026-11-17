@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+openai>=2,<3
+websocket-client>=1.8,<2
+# Compresses live audio for recognition (Ogg/Opus); without it audio goes out raw.
+av>=14,<20
